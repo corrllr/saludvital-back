@@ -36,15 +36,8 @@ Permite a los usuarios visualizar especialidades médicas disponibles, programar
 4. Accede a través de 
 
 ### Diagrama de componentes:
-![Componentes](https://github.com/user-attachments/assets/03bed2a2-2496-4575-9c70-c3ea28aeb6e1)
+en saludvital-back\assets
 
 ### Diagrama de clases:
-![clases](https://github.com/user-attachments/assets/9f283927-d082-4805-9381-cc14ab4f5535)
-
-
-### Pruebas en Jacoco
-
-![image](https://github.com/user-attachments/assets/e7d59637-5e96-4fe6-a454-cf1d564e43e5)
-
-### Base de datos en Mongo ATlas
-![image](https://github.com/user-attachments/assets/c946bd4c-0d6d-4ccc-ae8f-3b199b58f557)
+en \saludvital-back\assets
+## fin
